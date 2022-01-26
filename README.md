@@ -7,4 +7,4 @@
 ### Ex5: Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance
 ### Ex6: Programming Exercise 6: Support Vector Machines
 ### Ex7: Programming Exercise 7: K-means Clustering and Principal Component Analysis
-### Ex8: Anomaly Detection and Recommender Systems
+### Ex8: Programming Exercise 8: Anomaly Detection and Recommender Systems
