@@ -1,4 +1,4 @@
-## Online-learning: Machine-Learning
+## Online-learning: ML
 
 #### Programming Exercise 1: Linear Regression
 #### Programming Exercise 2: Logistic Regression
